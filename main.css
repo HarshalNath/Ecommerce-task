@@ -52,12 +52,9 @@
   border: 1px solid #ccc;
   padding: 20px;
   text-align: center;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   height: 450px;
   position: relative;
-  background: #eee;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .product-image {
   width: 200px;
@@ -67,6 +64,7 @@
   border: 1px solid black;
   border-radius: 8px;
   padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .product-title {
